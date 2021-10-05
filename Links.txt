@@ -1,0 +1,259 @@
+Daily Links
+
+1. https://rapidapi.com/blog/how-to-use-an-api-with-c-sharp/
+2. https://www.youtube.com/watch?v=gW507cOiTRw
+3. https://www.tutorialsteacher.com/webapi/create-web-api-project
+4. https://dotnet.microsoft.com/apps/aspnet/apis
+5. https://stackoverflow.com/questions/28385884/how-to-create-repository-in-github-through-github-api
+6. https://rakesh-suryawanshi.medium.com/create-github-repository-using-rest-api-dfc631272b4e
+7. https://syncfusion.atlassian.net/jira/software/c/projects/CI/boards/524?modal=detail&selectedIssue=CI-2264
+8. how to create a repository in github through api
+9. https://github.com/octokit/octokit.net/blob/main/Octokit.vssettings
+10.https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/
+11.
+
+
+Work Today - 03-09-2021
+
+1. Gone through projects on rest api
+		https://www.restapiexample.com/use-of-rest-api/github-rest-api-example-uses/
+		https://codesnippet.io/github-api-tutorial/
+
+2. Learned about Oauth and its role and importance on creating repo 
+		https://www.youtube.com/watch?v=t4-416mg6iU
+		https://www.youtube.com/watch?v=R9lxXQcy-nM
+
+3. Got clear view on rest API with these references
+		https://www.youtube.com/watch?v=LooL6_chvN4
+		https://www.youtube.com/watch?v=Jvu60R-AWQc
+4. Here I learned how to call an API in C#
+		https://www.youtube.com/watch?v=aWePkE2ReGw
+5. I learned about CRUD and how to implement on C#
+		https://www.c-sharpcorner.com/UploadFile/dacca2/http-request-methods-get-post-put-and-delete/
+
+
+1. Tried to create a repo using command prompt by referring these sites
+	https://www.youtube.com/watch?v=6xmFp4_U9-A
+	https://stackoverflow.com/questions/28385884/how-to-create-repository-in-github-through-github-api
+	https://www.loginradius.com/blog/async/github-api/
+	https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api
+	
+2. Tried with Postman addon in chrome 
+3. Referred this site in order to resolve authentication issue
+	https://blog.restcase.com/restful-api-authentication-basics/
+
+
+07-09-2021  
+
+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
+
+1. gist 
+	https://stackoverflow.com/questions/6767518/what-is-the-difference-between-github-and-gist
+2. gpg key 
+	https://stackoverflow.com/questions/60482588/what-is-githubs-public-gpg-key#:~:text=github%20public%2Dkey%20gpg%2Dsignature,signed%20with%20GitHub's%20GPG%20key.
+3. cmd references 
+	https://gist.github.com/btoone/2288960
+	https://stackoverflow.com/questions/54456747/create-repo-using-github-api-only-curl-and-no-oauth
+	https://www.softwaretestinghelp.com/github-rest-api-tutorial/
+	https://docs.github.com/en/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists
+	https://docs.github.com/en/rest/overview/other-authentication-methods
+	https://docs.github.com/en/rest/overview/troubleshooting#basic-authentication-errors
+	https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps#web-application-flow
+
+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
+
+"Authorization: token ".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,"Accept: application/vnd.github.v3+json","User-Agent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 YaBrowser/16.3.0.7146 Yowser/2.5 Safari/537.36"
+
+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   p
+
+Created Repository using Command Prompt 
+
+curl command references
+	https://www.youtube.com/watch?v=I6id1Y0YuNk
+	https://www.youtube.com/watch?v=8f9DfgRGOBo
+
+cmd references 
+	https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api
+	https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api
+	https://gist.github.com/btoone/2288960
+	https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages
+	https://github.community/t/message-problems-parsing-json/118408/3
+	https://www.viget.com/articles/create-a-github-repo-from-the-command-line/
+	https://stackoverflow.com/questions/50784321/curl-error-3-port-number-ended-with
+	https://stackoverflow.com/questions/52410828/github-api-returning-message-requires-authentication-even-though-i-am-providing
+	https://stackoverflow.com/questions/61009023/github-api-error-problems-parsing-json-when-using-curl-but-works-fine-with-pos
+	
+
+--data-raw '{   "tag_name": "4.2.0",    "target_commitish": "master",   "name": "4.2.0",    "body": "test"}'
+--data-raw "{   \"tag_name\": \"4.2.0\",    \"target_commitish\": \"master\",   \"name\": \"4.2.0\",    \"body\": \"test\"}"
+
+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
+
+
+09-09-2021
+
+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
+
+1. The task on "Create Github Repository with C# code via Command Prompt" is accomplished and the references are mentioned below:
+	https://www.youtube.com/watch?v=CNDextE6Tz8
+	https://stackoverflow.com/questions/1469764/run-command-prompt-commands
+	https://www.codeproject.com/Articles/25983/How-to-Execute-a-Command-in-C
+	https://www.geeksforgeeks.org/program-to-print-backslash-in-c-sharp/
+
+2. Task on creating github repository is on progress and the references are 
+	https://csharp.hotexamples.com/examples/Octokit/GitHubClient/-/php-githubclient-class-examples.html
+	https://stackoverflow.com/questions/4015324/how-to-make-an-http-post-web-request
+	https://stackoverflow.com/questions/50784321/curl-error-3-port-number-ended-with
+	https://stackoverflow.com/questions/16735042/the-remote-server-returned-an-error-403-forbidden
+
+
+sir does message not found error comes under exception?
+
+1. Learned about process classes
+	https://www.youtube.com/watch?v=9jpGfSIMX4w
+	https://www.youtube.com/watch?v=C8cwe1nij4Y
+	https://zetcode.com/csharp/process/
+	https://www.c-sharpcorner.com/uploadfile/puranindia/understanding-process-in-C-Sharp/
+	https://www.youtube.com/watch?v=UWalouJkwKs
+	https://www.c-sharpcorner.com/UploadFile/1e050f/process-class-in-C-Sharp/
+	http://www.blackwasp.co.uk/CaptureProcessOutput.aspx
+	https://www.codeproject.com/Articles/4665/Launching-a-process-and-displaying-its-standard-ou
+	https://www.dotnetperls.com/process
+	https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process.standardoutput?view=net-5.0
+	https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process.start?view=net-5.0
+
+
+14/09/2021  
+
+1. The task on creating a repository using C# is accomplished.
+2. The task on presenting as a console application is on process.
+3. Known importance of UseShellExecute
+	https://www.youtube.com/watch?v=H0gwnFV_SFs
+	https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.processstartinfo.useshellexecute?view=net-5.0
+	https://stackoverflow.com/questions/5255086/when-do-we-need-to-set-processstartinfo-useshellexecute-to-true
+4. learned on redirectstandardoutput 
+	https://www.dotnetperls.com/process
+	http://www.blackwasp.co.uk/CaptureProcessOutput.aspx
+	https://www.codeproject.com/Articles/4665/Launching-a-process-and-displaying-its-standard-ou
+
+15/09/2021
+
+1. Learned about logging exception with the help of references
+	https://www.c-sharpcorner.com/UploadFile/0c1bb2/logging-excetion-to-text-file/
+	https://stackoverflow.com/questions/21307789/how-to-save-exception-in-txt-file/21308327
+	https://stackoverflow.com/questions/27316598/how-to-log-exception-to-file
+	https://stackify.com/csharp-exception-handling-best-practices/
+	https://stackoverflow.com/questions/3491213/logging-exception-in-c-sharp
+2. Learned about serialization and deserialization 
+	https://www.c-sharpcorner.com/article/json-serialization-and-deserialization-in-c-sharp/
+	https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to?pivots=dotnet-5-0
+	https://stackoverflow.com/questions/7895105/deserialize-json-with-c-sharp
+	https://www.youtube.com/watch?v=Ib3jnD158NI
+3. Facing issue on json explicit conversion 
+	https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-converters-how-to?pivots=dotnet-5-0
+	
+
+16/09/2021:
+
+9:30 :  No improvement
+10:30 : No improvement
+11:30 : No improvement
+12:00 : adhey dhan thirumbavum 
+12:30: nothing 
+1:00 :  viewed one video on exception logging (waste uh)
+2:00 :  lunch oru kedu
+2:30 :  must have logged exceptions!!!!!!!!!!!!!!!!!!!!
+3:00 :  must presented the exceptions logged!!!!!!!!!!!
+3:30 :  about backtracing videos and links 
+4:00 :  what is curl.exe
+4:30 :  Done executing 
+5:00 :  Try with exception logging using log info 
+5:30 :  To watch video on exception logging with the help of loginfo
+
+
+work log : 16/09/2021
+
+1. Exception is logged to a text file and successfully printed.
+	https://stackoverflow.com/questions/21307789/how-to-save-exception-in-txt-file/21308327	
+
+2. Get to know about stack trace
+	https://stackoverflow.com/questions/3988788/what-is-a-stack-trace-and-how-can-i-use-it-to-debug-my-application-errors
+	https://www.youtube.com/watch?v=DSVL619sRkI
+	https://en.wikipedia.org/wiki/Stack_trace
+	
+3. Learned about curl.exe
+	https://stackoverflow.com/questions/9507353/how-do-i-install-and-use-curl-on-windows 
+	https://www.youtube.com/watch?v=8f9DfgRGOBo
+
+17/09/2021:
+
+9:30  :  to check with the task on invite a collabrator   :   Found the API link and done manual method 
+10:00 :  to check the link with postman and run on cmd    :   on pending
+
+
+
+Worklog : 17/09/2021
+
+1. Did manual invitation for the new user in Github procedures with the help of 
+	https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository
+
+2. Got the correct api link in order to make the invite for another github user from 
+	https://docs.github.com/en/rest/reference/repos#add-a-repository-collaborator
+
+3. Implemented dispose method on my code and read about its functionality with the help of this link
+	https://docs.microsoft.com/en-us/dotnet/standard/garbage-collection/implementing-dispose
+
+4. Searched and Implemented on executable path in order to make the path universal regardless of machines 
+	https://stackoverflow.com/questions/3991933/get-path-for-my-exe
+	https://iq.direct/blog/51-how-to-get-the-current-executable-s-path-in-csharp.html
+	https://stackoverflow.com/questions/5606747/how-to-get-application-path
+	https://stackoverflow.com/questions/3461865/how-do-i-get-bin-path/3462026
+	https://www.c-sharpcorner.com/forums/c-sharp105
+
+5. Resolved the issue on curl.exe and its the command corrections are done successfully which directs straight to the github api 
+6. Added newtonsoft.Json for .Net which is used for deserialisation purposes with the help of references 
+	https://docs.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual-studio
+	https://stackoverflow.com/questions/18230014/why-cant-i-add-the-newtonsoft-json-dll-ref-to-my-project
+7. Searched on json string enum converter c# in order to resolve the issue on deserialisation 
+	https://stackoverflow.com/questions/2441290/javascriptserializer-json-serialization-of-enum-as-string
+Issues on code : problem in deserialisation of Json string till time my references are
+	https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to?pivots=dotnet-5-0
+	https://www.c-sharpcorner.com/article/json-serialization-and-deserialization-in-c-sharp/
+	https://stackoverflow.com/questions/7895105/deserialize-json-with-c-sharp
+	https://stackoverflow.com/questions/10350982/deserialize-json-string-to-c-sharp-object/10351245
+
+To do next : To log the fresh exceptions only and to clear	
+
+links for deserialization :
+	https://www.techrepository.in/blog/posts/step-by-step-guide-to-serialize-and-deserialize-json-using-system-text-json
+	https://stackoverflow.com/questions/57549547/jsonserializer-does-not-contain-definition-for-parse
+	
+
+20/09/2021 :
+
+1. Faced issue on "could not resolve host: api.github.com" while the task on sending invite to another github user using command prompt is on progress
+	https://sumedhagn.medium.com/solved-fatal-unable-to-access-could-not-resolve-host-github-com-7714149ff9f0
+	https://stackoverflow.com/questions/20370294/git-could-not-resolve-host-github-com-error-while-cloning-remote-repository-in
+	https://www.edureka.co/community/66457/fatal-unable-to-access-could-not-resolve-host-github
+	https://developers.google.com/speed/public-dns/docs/using#testing
+2. Faced issue on "port number ended with a" during the task on sending invite to another github user using command prompt which is on progress
+	https://stackoverflow.com/questions/50784321/curl-error-3-port-number-ended-with
+ 
+3. The task to send invite to another github user with the help of github api using curl commands is accomplished using command prompt
+	https://docs.github.com/en/rest/reference/repos#add-a-repository-collaborator
+	https://stackoverflow.com/questions/33654997/add-user-to-organization-repository-github-api
+	https://www.softwaretestinghelp.com/github-rest-api-tutorial/
+
+4. The task to send invite using C# is on progress and currently facing issue on "could not resolve host: github"
+5. Exceptions are logged to exception.log file
+
+To do next : 
+
+1.
+. To log the fresh exceptions only and to clear the older ones 
+2. To deserialize the result elements 
+
+
+21/09/2021 :
+
+1. Faces issue on "could not resolve host:api.github.com" 
